@@ -1,0 +1,8 @@
+$ pkg upgrade && pkg update 
+$ instal git -y
+$ pkg install nodejs -y
+$ pkg install ffmpeg -y
+$ pkg install imagemagick -y
+$ git clone STRAVA V2.5
+$ cd STRAVA V2.5
+$ npm start
